@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dreyze&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20developer%20%C2%B7%20AI%20%26%20mobile%20products&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Dreyze" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dreyze&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20developer%20-%20AI%20and%20mobile%20products&descAlignY=60&descSize=18" width="100%" alt="Dreyze" />
 
 <a href="https://github.com/DreyzeDev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI+systems+from+scratch;Crafting+native+iOS+apps;Backend+services+%26+Telegram+automation;Turning+ideas+into+working+products" alt="Typing SVG" />
